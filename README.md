@@ -15,3 +15,6 @@ We will be choosing candidates to interview based upon the successful completion
 ## Proposed solution
 Given a start and an end numbers, being the latter the highest of the two, an array is created and. Randomly, items are copied from this array to a new one. Evey time an item is copied, the number is deleted from the origin and the array is resized.
 This approach guarantees no duplicates and it is faster after every execution, since the origin of the data is smaller over time.
+
+**Execution** 
+node number_generator [min] [max]
