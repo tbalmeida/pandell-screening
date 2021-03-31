@@ -11,3 +11,7 @@ Your deliverable will be something that we can compile and run (to test the resu
 Please have your submission to me within one week from today.
 
 We will be choosing candidates to interview based upon the successful completion and evaluation of the submitted solutions to this problem.
+
+## Proposed solution
+Given a start and an end numbers, being the latter the highest of the two, an array is created and. Randomly, items are copied from this array to a new one. Evey time an item is copied, the number is deleted from the origin and the array is resized.
+This approach guarantees no duplicates and it is faster after every execution, since the origin of the data is smaller over time.
