@@ -20,4 +20,5 @@ This approach guarantees no duplicates and it is faster after every execution, s
 node number_generator [min] [max]
 
 **Online REPL**
+
 [Replit](https://replit.com/@tbalmeida/InfantilePassionateTelecommunications#index.js)
